@@ -16,7 +16,7 @@
 **注意事项**: 
 
 1. 如果提的面试题有具体来源，请附上题目来源，比如`腾讯xx岗位面试题`，没有就填写；
-2. 提`issue`时请根据题目类型选择相应的`label`，方便大家阅读和管理。目前的`label`有 `PHP`、`Python`、`Java`、`Backend`、`Frontend`、`Database`、`Others`，如果你不知道选择哪个，就选择`Others`。
+2. 提`issue`时请根据题目类型选择相应的`label`，方便大家阅读和管理。目前的`label`有 `PHP`、`Python`、`Java`、`Backend`、`Frontend`、`Database`、`OS`、`Cache`、`Others`，如果你不知道选择哪个，就选择`Others`，如果有需要可以继续添加新的`label`；
 3. 提`issue`前，请先浏览下所有题目，如若没有相似的题目再提，避免重复；
 
 ## 如何贡献答案？
